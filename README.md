@@ -4,18 +4,21 @@ I am a front-end web developer mostly working on Angular. I have worked on natio
 
 - 🔭 I’m currently working on LMS - PACIOLI a learning management system for a specific university in Saudi Arabia.
 
-- 
+- 🌱 I’m currently learning Angular and it's cored to make the development smooth for users.
+
+- 📫 How to reach me:
+  You can reach me by:
+  linked in [Abdul Raouf](https://www.linkedin.com/in/abdul-raouf-aa13a21b0/),
+  gmail [Abdul Raouf](abdulraouf1033@gmail.com) or
+  whatsapp [text me](https://wa.me/923048760833)
+  
 <!--
 **roficoder/roficoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

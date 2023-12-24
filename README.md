@@ -18,7 +18,14 @@ I am a front-end web developer mostly working on Angular. I have worked on natio
   Url: https://fuj-hr.ae/
   ## Efaad Dubai Police
   Url: https://efaad.dubaipolice.gov.ae/Efaad/#/
-  
+  ## Ailaan
+  Url: https://ailaan.pk
+  ## LMS - PACIOLI
+  It is a private project cna be visited with credentials
+  ## My Trending Stories
+  Url: https://mytrendingstories.com/
+  ## Ontime - Hospital Management System
+  It is also a private hospital product and can be used by service users.
 <!--
 **roficoder/roficoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

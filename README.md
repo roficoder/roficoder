@@ -1,5 +1,10 @@
 ### Hi there 👋
+## ABDUL RAOUF here
+I am a front-end web developer mostly working on Angular. I have worked on national and international projects.
 
+- 🔭 I’m currently working on LMS - PACIOLI a learning management system for a specific university in Saudi Arabia.
+
+- 
 <!--
 **roficoder/roficoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

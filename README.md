@@ -7,14 +7,16 @@ I am a front-end web developer mostly working on Angular. I have worked on natio
 - 🌱 I’m currently learning Angular and it's cored to make the development smooth for users.
 
 - 📫 How to reach me:
-  You can reach me by:
-  linked in [Abdul Raouf](https://www.linkedin.com/in/abdul-raouf-aa13a21b0/),  
-  gmail [Abdul Raouf](abdulraouf1033@gmail.com) or  
-  whatsapp [text me](https://wa.me/923048760833)
+  You can reach me by:  
+  Linked in [Abdul Raouf](https://www.linkedin.com/in/abdul-raouf-aa13a21b0/),  
+  Gmail [Abdul Raouf](abdulraouf1033@gmail.com) or  
+  WhatsApp [text me](https://wa.me/923048760833)
 
   # Projects
-  Following are the projects I have worked upon:
+  Following are the projects I have worked on:
   ## Fujairah - HR
+  #### Project Overview:
+  The Fujairah HR was an update of their already-built system which is regarding the Fujairah, a state of UAE. The update includes a lot of features including job, career, courses, trainings etc.
   Url: https://fuj-hr.ae/
   ## Efaad Dubai Police
   Url: https://efaad.dubaipolice.gov.ae/Efaad/#/

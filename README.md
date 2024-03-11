@@ -23,7 +23,8 @@ I am a front-end web developer mostly working on Angular. I have worked on natio
   ## Ailaan
   Url: https://ailaan.pk
   ## LMS - PACIOLI
-  It is a private project cna be visited with credentials
+  It is a private project can be visited with credentials
+  https://pacioli.sa/
   ## My Trending Stories
   Url: https://mytrendingstories.com/
   ## Ontime - Hospital Management System
